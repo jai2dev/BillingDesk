@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/amita</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/artifika</item>
+        <item>@font/bad_script</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/cabin_sketch</item>
+        <item>@font/carter_one</item>
+        <item>@font/cinzel_decorative</item>
+        <item>@font/finger_paint</item>
+    </array>
+</resources>

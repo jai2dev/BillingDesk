@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Billing Desk</string>
+    <string name="amount">Amount on the Bill</string>
+    <string name="txt_message">Please point the camera to the bill amount to capture</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+
+</resources>
